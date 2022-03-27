@@ -1,7 +1,7 @@
-👋 Hi, I’m Mathias Schablinger
-🧡 My favourite programming language is javascript
-📘 I’m currently attending the Higher Technical College in Leonding
-📫 You can reach me on Discord: MatseCrafter_304#0034 or via Email: mschablinger@protonmail.com
+👋 Hi, I’m Mathias Schablinger\
+🧡 My favourite programming language is javascript\
+📘 I’m currently attending the Higher Technical College in Leonding\
+📫 You can reach me on Discord: MatseCrafter_304#0034 or via Email: mschablinger@protonmail.com\
 
 <!---
 MSchablinger/MSchablinger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
