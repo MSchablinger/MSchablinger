@@ -1,5 +1,5 @@
 👋 Hi, I’m Mathias Schablinger\
-🧡 My favourite programming language is javascript\
+🧡 My favourite programming language is typescript\
 📘 I’m currently attending the Higher Technical College in Leonding\
 📫 You can reach me on Discord: MatseCrafter_304#0034 or via Email: mschablinger@protonmail.com
 
