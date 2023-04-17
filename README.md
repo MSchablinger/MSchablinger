@@ -1,6 +1,6 @@
 👋 Hi, I’m Mathias Schablinger\
 🧡 Web developement and cyber security\
-🐧 I use arch btw
+🐧 I use arch btw\
 📘 I’m currently attending the Higher Technical College in Leonding\
 📫 You can reach me on Discord: MatseCrafter_304#0034 or via Email: mschablinger@protonmail.com
 
