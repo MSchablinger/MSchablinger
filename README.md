@@ -2,7 +2,7 @@
 🧡 Web developement and cyber security\
 🐧 I use arch btw\
 📘 I’m currently attending the Higher Technical College in Leonding\
-📫 You can reach me on Discord: MatseCrafter_304#0034 or via Email: mschablinger@protonmail.com
+📫 You can reach me on Discord: Matse_304 or via Email: mschablinger@protonmail.com
 
 <!---
 MSchablinger/MSchablinger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
